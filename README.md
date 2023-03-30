@@ -17,3 +17,5 @@ Terminating Jupyter Notebook properly: File --> Close and Halt --> Logout --> Te
 
 
 ```
+
+[YOUTUBE: PYTHON3 THE DAY I WILL DIE](https://youtu.be/j0x-NBhQLHk)
